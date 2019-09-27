@@ -1,7 +1,9 @@
+Button example
+
+```
 qmake -project&&qmake&&make
-
+```
 add to .pro
-
 ```
 QT += gui
 QT += widgets

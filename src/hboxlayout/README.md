@@ -1,4 +1,4 @@
-subclassing sample
+HBoxLayout example
 
 ```
 qmake -project&&qmake&&make

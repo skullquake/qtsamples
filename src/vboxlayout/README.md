@@ -1,4 +1,4 @@
-subclassing sample
+VBoxLayout example
 
 ```
 qmake -project&&qmake&&make

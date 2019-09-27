@@ -1,4 +1,4 @@
-subclassing sample
+FormLayout example
 
 ```
 qmake -project&&qmake&&make
