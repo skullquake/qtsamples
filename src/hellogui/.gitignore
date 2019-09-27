@@ -1,2 +1,5 @@
 **/debug
 **/release
+/Makefile
+/Makefile.debug
+/Makefile.release
