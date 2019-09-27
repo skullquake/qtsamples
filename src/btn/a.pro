@@ -3,7 +3,7 @@
 ######################################################################
 
 TEMPLATE = app
-TARGET = subclas
+TARGET = a
 INCLUDEPATH += .
 
 # The following define makes your compiler warn you if you use any
@@ -19,8 +19,6 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 # Input
 SOURCES += a.cpp
-SOURCES += window.cpp
-HEADERS += window.h
 
 
 QT += gui
